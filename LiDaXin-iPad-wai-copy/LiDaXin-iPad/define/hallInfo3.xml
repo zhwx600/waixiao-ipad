@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<command>
+    <commandid>version</commandid>
+    <requestver>
+        <version>5465565</version>
+    </requestver>
+    
+</command>

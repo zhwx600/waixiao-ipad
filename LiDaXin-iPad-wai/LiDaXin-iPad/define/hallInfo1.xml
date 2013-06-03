@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<command>
+    <commandid>image</commandid>
+    <add>
+        <param>
+            <imageid>iamgeid2</imageid>
+            <imageurl>url1</imageurl>
+            <roomid>roomid1</roomid>
+            <description>des1</description>
+            <ver>2</ver>
+        </param>
+        <param>
+            <imageid>iamgeid3</imageid>
+            <imageurl>url54</imageurl>
+            <roomid>roomid154</roomid>
+            <description>des1</description>
+            <ver>245</ver>
+        </param>
+    </add>
+    <delete>
+        <param>
+            <imageid>iamgeid3</imageid>
+            <imageid>iamgeid5</imageid>
+        </param>
+    </delete>
+    <modify>
+        <param>
+            <imageid>iamgeid2</imageid>
+            <imageurl>url1</imageurl>
+            <roomid>roomid1</roomid>
+            <description>des1</description>
+            <ver>2</ver>
+        </param>
+        <param>
+            <imageid>iamgeid3</imageid>
+            <imageurl>url54</imageurl>
+            <roomid>roomid154</roomid>
+            <description>des1</description>
+            <ver>245</ver>
+        </param>
+    </modify>
+    
+</command>

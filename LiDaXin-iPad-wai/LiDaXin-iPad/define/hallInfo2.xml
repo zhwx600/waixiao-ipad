@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<command>
+    <commandid>pos</commandid>
+    <add>
+        <param>
+            <posid>posid3</posid>
+            <posx>11</posx>
+            <posy>33</posy>
+            <proid>proid3</proid>
+            <imageid>imageid1</imageid>
+            <ver>2</ver>
+        </param>
+        <param>
+            <posid>posid3</posid>
+            <posx>11</posx>
+            <posy>33</posy>
+            <proid>proid3</proid>
+            <imageid>imageid1</imageid>
+            <ver>2</ver>
+        </param>
+    </add>
+    <delete>
+        <param>
+            <posid>posid33</posid>
+            <posid>posid666</posid>
+        </param>
+    </delete>
+    <modify>
+        <param>
+            <posid>posid3</posid>
+            <posx>11</posx>
+            <posy>33</posy>
+            <proid>proid3</proid>
+            <imageid>imageid1</imageid>
+            <ver>2</ver>
+        </param>
+        <param>
+            <posid>posid3</posid>
+            <posx>11</posx>
+            <posy>33</posy>
+            <proid>proid3</proid>
+            <imageid>imageid1</imageid>
+            <ver>2</ver>
+        </param>
+    </modify>
+    
+</command>

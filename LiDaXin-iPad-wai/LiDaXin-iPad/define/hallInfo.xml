@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<command>
+    <commandid>product</commandid>
+    <add>
+        <param>
+            <proid>posid3</proid>
+            <protype>11</protype>
+            <proparam>33</proparam>
+            <prourl>proid3</prourl>
+            <ver>2</ver>
+        </param>
+        <param>
+            <proid>posid3</proid>
+            <protype>11</protype>
+            <proparam>33</proparam>
+            <prourl>proid3</prourl>
+            <ver>2</ver>
+        </param>
+    </add>
+    <delete>
+        <param>
+            <proid>proid33</proid>
+            <proid>proid666</proid>
+        </param>
+    </delete>
+    <modify>
+        <param>
+            <proid>posid3</proid>
+            <protype>11</protype>
+            <proparam>33</proparam>
+            <prourl>proid3</prourl>
+            <ver>2</ver>
+        </param>
+        <param>
+            <proid>posid3</proid>
+            <protype>11</protype>
+            <proparam>33</proparam>
+            <prourl>proid3</prourl>
+            <ver>2</ver>
+        </param>
+    </modify>
+    
+</command>
